@@ -10,7 +10,7 @@ int main()
     scanf("%d",&b);
 
     r = a+b ;
-
+/*somme des deux entiers*/
     printf("resultat de la somme est: %d ",c);
 
     return 0;
