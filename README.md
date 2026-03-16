@@ -3,7 +3,7 @@
 2. _Programme pour calculer le produit scalaire et somme de deux vecteurs_
 3. _Programme pour calculer le produit de deux matrices_ 
 4. _Programme pour inverser une chaine de caractere_ 
-5. _Programme qui compte les carateres dans une chaine de caractere_
+5. _Programme qui compte les caracteres dans une chaine de caractere_
 6. _Soit U<sub>n</sub> une suite d'entiers définie par:_ \
 U<sub>0</sub>= 3 et U<sub>1</sub>= -4\
 U<sub>n</sub>= 2 U<sub>n-1</sub>+ 3 U<sub>n-2</sub>
