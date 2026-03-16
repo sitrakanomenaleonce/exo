@@ -11,7 +11,7 @@ int main()
 
     r = a+b ;
 /*somme des deux entiers*/
-    printf("resultat de la somme est: %d ",c);
+    printf("resultat de la somme est: %d ",r);
 
     return 0;
 }
