@@ -14,7 +14,8 @@ int main() {
 
     int produitScalaire = 0;
     printf("Somme des vecteurs: ");
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) 
+    {
         produitScalaire += A[i] * B[i];
         printf("%d ", A[i] + B[i]);
     }
